@@ -1,0 +1,25 @@
+{
+    "name": "nlybe/special_notifications",
+    "description": "Extended notifications functionality on certain events for Elgg communites",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "notifications"
+    ],
+    "homepage": "",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Nikos Lyberakis",
+            "email": "nikos@lyberakis.gr",
+            "role": "Web Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": ">=1.0.8"
+    },        
+    "extra": {
+        "installer-name": "special_notifications"
+    }
+}
